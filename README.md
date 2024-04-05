@@ -26,6 +26,11 @@
 - Resolved critical project issues leading to a 15% increase in customer satisfaction.
 - Received recognition for effectively managing project risks and ensuring timely delivery.
 
+## AWARDS AND CERTIFICATIONS
+-	Winner of Championship Program 2020 conducted for best innovation in One Product (2500 $)
+-	Sun Certified Java Programmer, Java SE Platform 1.5
+-	INS 24 Segment A
+
 ## Contact Information
 
 - Email: [ketanvasaikar@gmail.com](mailto:your.email@example.com)
